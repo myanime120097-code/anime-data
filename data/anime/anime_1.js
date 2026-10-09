@@ -1,6 +1,6 @@
 // anime batch file #1
-// generated: 2026-10-09T09:25:01.427Z
-// count: 1
+// generated: 2026-10-09T09:25:07.144Z
+// count: 2
 window.ANIME_BATCH_1 = [
   {
     "banner": "",
@@ -2585,5 +2585,154 @@ window.ANIME_BATCH_1 = [
     "type": "Series",
     "updated_at_ms": 1791533742353,
     "year": "2007"
+  },
+  {
+    "banner": "",
+    "characters": [
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png",
+        "name": "Rudeus Greyrat",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png",
+        "name": "Roxy Migurdia",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png",
+        "name": "Sylphiette",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png",
+        "name": "Eris Boreas Greyrat",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png",
+        "name": "Ruijerd Superdia",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88347-YtQTlChhN50m.png",
+        "name": "Paul Greyrat",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137816-ub5QE86fHD3C.png",
+        "name": "Shizuka Nanahoshi",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145458-JG4FkAjUjw2l.png",
+        "name": "Norn Greyrat",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145459-qCq1vKZtxkT3.png",
+        "name": "Aisha Greyrat",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179854-hgRPJ1646RIK.png",
+        "name": "Lilia",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179855-Tape2W456xwI.png",
+        "name": "Zenith Greyrat",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186490-XcaRQQOOrSwX.png",
+        "name": "Elinalise Dragonroad",
+        "role": "Supporting"
+      }
+    ],
+    "created_at_ms": 1791450923427,
+    "episode_duration": "24 min",
+    "episodes_list": [
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 1
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 2
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 3
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 4
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 5
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 6
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 7
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 8
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 9
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 10
+      },
+      {
+        "created_at": "08/10/2026 15:15:23",
+        "duration": "24",
+        "number": 11
+      },
+      {
+        "created_at": "08/10/2026 15:47:04",
+        "duration": "24",
+        "number": "12"
+      },
+      {
+        "created_at": "09/10/2026 13:50:44",
+        "duration": "24",
+        "number": "13"
+      }
+    ],
+    "format": "TV",
+    "genres": "Adventure, Drama, Ecchi, Fantasy",
+    "poster_2_3": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+    "rating": "8.2 / 10",
+    "slug": "mushoku_tensei_jobless_reincarnation",
+    "source": "LIGHT_NOVEL",
+    "status": "FINISHED",
+    "studios": "Studio Bind",
+    "synopsis": "When a 34-year-old underachiever gets run over by a bus, his story doesn’t end there. Reincarnated in a new world as an infant, Rudeus will seize every opportunity to live the life he’s always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he’s always dreamed of, he’s embarking on an epic adventure—with all of his past experience intact!\n\n\n\n(Source: Funimation, edited)\n\n\n\nNote: The anime pre-screened its 1st and 2nd episode starting on the 27th of December on the Nico Nico Live Broadcasting and D Anime Store services<i/>",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "total_episodes": "11",
+    "trailer_embed": "https://www.youtube.com/embed/JoS7Z8MCD6E",
+    "type": "Series",
+    "updated_at_ms": 1791532245768,
+    "year": "2021"
   }
 ];
