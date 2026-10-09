@@ -1,6 +1,6 @@
 // anime batch file #1
-// generated: 2026-10-09T09:25:07.144Z
-// count: 2
+// generated: 2026-10-09T09:27:31.768Z
+// count: 3
 window.ANIME_BATCH_1 = [
   {
     "banner": "",
@@ -2734,5 +2734,175 @@ window.ANIME_BATCH_1 = [
     "type": "Series",
     "updated_at_ms": 1791532245768,
     "year": "2021"
+  },
+  {
+    "banner": "https://i.ibb.co/C541F7DG/Tomb-Raider-King.jpg",
+    "characters": [
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141875-YxUiyxknS16n.png",
+        "name": "Ju-Heon Seo",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187029-dzi7JIAfPrVz.jpg",
+        "name": "Irene  Holton",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187178-COovUjQPR7lr.png",
+        "name": "Jae-Ha Yu",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b214287-jDirVcCBMTLh.png",
+        "name": "Tae-Jun Kwon",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187179-TM70djXpAEKR.png",
+        "name": "Julian Miller",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b214286-JmpVq2BRP98B.jpg",
+        "name": "Edward",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295963-Y9tcqVmexOkz.png",
+        "name": "Crow",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399810-mZl9J67yv3gH.png",
+        "name": "Seung-U O",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b407251-AQOKTnIBOgo1.png",
+        "name": "Geon-U Kim",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b407252-Nj6yrghlx7Qi.png",
+        "name": "Gyeong-Tae Park",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b407265-qJrGooOuvRId.png",
+        "name": "Eomma",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b407543-zRbZ361hOdj9.png",
+        "name": "Linda Walker",
+        "role": "Supporting"
+      }
+    ],
+    "created_at_ms": 1791447389896,
+    "episode_duration": "23 min",
+    "episodes_list": [
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "download_links": [
+          {
+            "quality": "480p",
+            "url": "https://hubcloud.ist/drive/vvbnv15hh10vbmc"
+          },
+          {
+            "quality": "480p",
+            "url": "https://new1.filepress.lat/file/6a644f6535670cd148b670e1"
+          },
+          {
+            "quality": "720p",
+            "url": "https://hubcloud.ist/drive/ihvdvaxzsh5zwaw"
+          },
+          {
+            "quality": "720p",
+            "url": "https://new1.filepress.lat/file/6a644f6c35670cd148b6724d"
+          },
+          {
+            "quality": "1080p",
+            "url": "https://hubcloud.ist/drive/7jl05ar71cavcjx"
+          },
+          {
+            "quality": "1080p",
+            "url": "https://new1.filepress.lat/file/6a644f5d35670cd148b66f55"
+          }
+        ],
+        "duration": "23",
+        "number": "1"
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 2
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 3
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 4
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 5
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 6
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 7
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 8
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 9
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 10
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 11
+      },
+      {
+        "created_at": "08/10/2026 14:16:29",
+        "duration": "23",
+        "number": 12
+      }
+    ],
+    "format": "TV",
+    "genres": "Action, Adventure, Fantasy",
+    "poster_2_3": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png",
+    "rating": "6.8 / 10",
+    "slug": "tomb_raider_king",
+    "source": "MANGA",
+    "status": "ONGOING",
+    "studios": "STUDIO EEK",
+    "synopsis": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.",
+    "title": "Tomb Raider King Season 1",
+    "total_episodes": "12",
+    "trailer_embed": "https://www.youtube.com/embed/6f702O_nnq8",
+    "type": "Series",
+    "updated_at_ms": 1791463713766,
+    "year": "2026"
   }
 ];
