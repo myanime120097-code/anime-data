@@ -1,6 +1,6 @@
 // anime batch file #1
-// generated: 2026-10-09T09:27:31.768Z
-// count: 3
+// generated: 2026-10-09T09:28:31.692Z
+// count: 4
 window.ANIME_BATCH_1 = [
   {
     "banner": "",
@@ -2904,5 +2904,149 @@ window.ANIME_BATCH_1 = [
     "type": "Series",
     "updated_at_ms": 1791463713766,
     "year": "2026"
+  },
+  {
+    "banner": "https://i.ibb.co/cSTYqCq2/chainsaw-man.jpg",
+    "characters": [
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png",
+        "name": "Denji",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png",
+        "name": "Power",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png",
+        "name": "Makima",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png",
+        "name": "Aki Hayakawa",
+        "role": "Main"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png",
+        "name": "Pochita",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png",
+        "name": "Himeno",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png",
+        "name": "Kishibe",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png",
+        "name": "Kobeni Higashiyama",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174263-TTMWfBlU1k3f.png",
+        "name": "Hirokazu Arai ",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157241-GkgQVzkFrmUD.jpg",
+        "name": "Samurai Sword",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174264-dLiZkMXoltQ9.png",
+        "name": "Akane Sawatari ",
+        "role": "Supporting"
+      },
+      {
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-jiMRx9je7H6y.png",
+        "name": "Tenshi no Akuma",
+        "role": "Supporting"
+      }
+    ],
+    "created_at_ms": 1791432415482,
+    "episode_duration": "25 min",
+    "episodes_list": [
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 1
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 2
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 3
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 4
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 5
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 6
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 7
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 8
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 9
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 10
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 11
+      },
+      {
+        "created_at": "08/10/2026 10:06:55",
+        "duration": "25",
+        "number": 12
+      }
+    ],
+    "format": "TV",
+    "genres": "Action, Drama, Horror, Supernatural",
+    "poster_2_3": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+    "rating": "8.3 / 10",
+    "slug": "chainsaw_man",
+    "source": "MANGA",
+    "status": "FINISHED",
+    "studios": "MAPPA",
+    "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita.\n\n\nOne day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as \"Chainsaw Man\" — a man with a devil's heart.\n\n\n\n(Source: Crunchyroll)",
+    "title": "Chainsaw Man",
+    "total_episodes": "12",
+    "trailer_embed": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "type": "Series",
+    "updated_at_ms": 1791432486285,
+    "year": "2022"
   }
 ];
